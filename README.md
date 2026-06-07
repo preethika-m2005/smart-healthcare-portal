@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 Doctor Appointment Booking System (MERN)
 
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
@@ -376,3 +377,7 @@ npm run dev
 ---
 
 ### Happy Coding! 🚀
+=======
+# smart-healthcare-portal
+Smart Healthcare Portal – A full-stack healthcare management platform that enables patients to book appointments, manage medical records, connect with doctors, and access healthcare services through a secure and user-friendly interface.
+>>>>>>> 7e305ec42c9545b5c9fef55fa0168300f9f73adc
